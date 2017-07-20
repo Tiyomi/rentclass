@@ -9,6 +9,7 @@ PUT /me
 ### Headers
 ```
 Accept: application/json
+Authorization: Bearer ***********************
 ```
 
 ### Parameters
